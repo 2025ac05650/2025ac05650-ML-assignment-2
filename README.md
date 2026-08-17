@@ -5,6 +5,7 @@ ML Assignment 2 - Classification Models and Model Comparison
 ## Student Information
 
 - **BITS ID:** 2025AC05650
+- **NAME**: S Varun Reddy
 - **Course:** Machine Learning
 - **Assignment:** Assignment 2
   
